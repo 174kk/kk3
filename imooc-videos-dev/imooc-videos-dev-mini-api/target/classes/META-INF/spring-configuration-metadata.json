@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "com.imooc",
+      "type": "com.imooc.cofig.ResourceConfig",
+      "sourceType": "com.imooc.cofig.ResourceConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "com.imooc.bgm-server",
+      "type": "java.lang.String",
+      "sourceType": "com.imooc.cofig.ResourceConfig"
+    },
+    {
+      "name": "com.imooc.file-space",
+      "type": "java.lang.String",
+      "sourceType": "com.imooc.cofig.ResourceConfig"
+    },
+    {
+      "name": "com.imooc.zookeeper-server",
+      "type": "java.lang.String",
+      "sourceType": "com.imooc.cofig.ResourceConfig"
+    }
+  ],
+  "hints": []
+}
